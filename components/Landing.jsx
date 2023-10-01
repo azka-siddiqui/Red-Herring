@@ -44,8 +44,8 @@ export const Landing = () => {
           fontSize={{ base: "md", md: "lg" }}
           color={useColorModeValue("gray.600", "gray.300")}
         >
-         Red Herring is a enterprise solution that enables social media providers to detect, mark, and alert users of misinformation on their platforms.
-        </chakra.p>
+         Red Herring is a enterprise solution that enables social media providers to detect, mark, and alert users of misinformation on their platforms. Coded as a project for STEMing UP 2023.
+         </chakra.p>
         <Stack
           direction={{ base: "column", sm: "row" }}
           mb={{ base: 4, md: 8 }}
